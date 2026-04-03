@@ -4,14 +4,6 @@
 
 ---
 
-### 🚀 Current Focus
-
-🧠 Working on a **CS2 platform** for nade line-ups + pro player database
-
-> One place. All features. No alternatives.
-
----
-
 ### 🛠️ Tech Stack
 
 <p>
