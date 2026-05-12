@@ -32,7 +32,7 @@ Advanced Next.js • Performance Optimization • Scalable Architecture
 
 ### ⚡ Quick Facts
 
-* 2+ years experience in web development
+* 3+ years experience in web development
 * Focused on performance & UI/UX
 * Always building something new
 
