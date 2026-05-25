@@ -1,4 +1,4 @@
-# Adham ⚡
+# Adham
 
 **17 y/o Web Developer** building clean, fast, modern web apps.
 
