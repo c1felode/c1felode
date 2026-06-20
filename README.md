@@ -4,7 +4,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Languages, Technologies, Libraries and Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,vue,nextjs,supabase,nodejs,redux,tailwind,figma,git" />
