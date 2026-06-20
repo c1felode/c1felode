@@ -7,7 +7,7 @@
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,supabase,nodejs,redux,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,supabase,nodejs,redux,tailwind,shadcn" />
 </p>
 Frontend
 React • Next.js • TypeScript • Tailwind CSS
