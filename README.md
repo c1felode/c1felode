@@ -11,6 +11,7 @@
 </p>
 Frontend
 React • Next.js • TypeScript • Tailwind CSS
+
 Backend
 Node.js • Nest.js • Typescript • Postgresql • Mongodb • Prisma • Typeorm 
 
