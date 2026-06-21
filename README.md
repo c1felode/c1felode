@@ -11,12 +11,14 @@
 </p>
 Frontend
 React • Next.js • TypeScript • Tailwind CSS
+Backend
+Node.js • Nest.js • Typescript • Postgresql • Mongodb • Prisma • Typeorm 
 
 Tools & Workflow
 Git • GitHub • Figma
 
 Currently Learning
-Advanced Next.js • Performance Optimization • Scalable Architecture
+Advanced Nest.js • Performance Optimization • Scalable Architecture
 
 ---
 
