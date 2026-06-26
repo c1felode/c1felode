@@ -19,7 +19,7 @@ Tools & Workflow
 Git • GitHub • Figma
 
 Currently Learning
-Advanced Nest.js • Performance Optimization • Scalable Architecture
+Advanced Nest.js • Performance Optimization • Scalable Architecture 
 
 ---
 
@@ -28,7 +28,6 @@ Advanced Nest.js • Performance Optimization • Scalable Architecture
 <p>
   <a href="https://t.me/cifelode">Telegram</a> •
   <a href="https://www.instagram.com/cs_reil">Instagram</a> •
-  <a href="mailto:abdusamadov.workit@gmail.com">Email</a>
 </p>
 
 ---
