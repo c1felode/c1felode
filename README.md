@@ -19,7 +19,7 @@ Tools & Workflow
 Git • GitHub • Figma
 
 Currently Learning
-Advanced Nest.js • Performance Optimization • Scalable Architecture 
+Advanced Nest.js • Performance Optimization • Scalable Architecture • Databases
 
 ---
 
