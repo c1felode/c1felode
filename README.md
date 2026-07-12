@@ -7,13 +7,13 @@
 ### 🛠️ Languages, Technologies, Libraries and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,supabase,postgresql,mongodb,prisma,nodejs,nestjs,redux,redis,tailwind,figma,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,supabase,postgresql,mongodb,prisma,nodejs,nestjs,redux,tailwind,figma,git" />
 </p>
 Frontend
 React • Next.js • TypeScript • Tailwind CSS
 
 Backend
-Node.js • Nest.js • Typescript • Postgresql • Mongodb • Prisma • Typeorm • Redis
+Node.js • Nest.js • Typescript • Postgresql • Mongodb • Prisma • Typeorm
 
 Tools & Workflow
 Git • GitHub • Figma
