@@ -7,7 +7,7 @@
 ### 🛠️ Languages, Technologies, Libraries and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,supabase,postgresql,mongodb,prisma,nodejs,nestjs,redux,tailwind,figma,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,supabase,postgresql,mongodb,prisma,nodejs,nestjs,redux,tailwind,figma,git,postman" />
 </p>
 Frontend
 React • Next.js • TypeScript • Tailwind CSS
