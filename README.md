@@ -16,7 +16,7 @@ Backend
 Node.js • Nest.js • Typescript • Postgresql • Mongodb • Prisma • Typeorm
 
 Tools & Workflow
-Git • GitHub • Figma
+Git • GitHub • Figma • Postman 
 
 Currently Learning
 Advanced Nest.js • Performance Optimization • Scalable Architecture • Databases
