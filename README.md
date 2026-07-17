@@ -1,43 +1,59 @@
-# Adham
+<div align="center">
 
-**17 y/o Web Developer** building clean, fast, modern web apps.
+# Hi, I'm Adham 👋
 
----
+**Web Developer** building clean, fast, modern web apps.
 
-### 🛠️ Languages, Technologies, Libraries and Tools
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cifelode)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cs_reil)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/c1felode)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,supabase,postgresql,mongodb,prisma,nodejs,nestjs,redux,tailwind,figma,git,postman" />
-</p>
-Frontend
-React • Next.js • TypeScript • Tailwind CSS
-
-Backend
-Node.js • Nest.js • Typescript • Postgresql • Mongodb • Prisma • Typeorm
-
-Tools & Workflow
-Git • GitHub • Figma • Postman 
-
-Currently Learning
-Advanced Nest.js • Performance Optimization • Scalable Architecture • Databases
-
----
-
-### 🌐 Connect with me
-
-<p>
-  <a href="https://t.me/cifelode">Telegram</a> •
-  <a href="https://www.instagram.com/cs_reil">Instagram</a> •
-</p>
+</div>
 
 ---
 
 ### ⚡ Quick Facts
 
-* 3+ years experience in web development
-* Focused on performance & UI/UX
-* Always building something new
+- 3+ years of experience building web applications
+- Focused on performance, clean architecture, and UI/UX
+- Currently deepening my NestJS, database, and scalable-architecture skills
+- Always shipping something new
 
 ---
 
-⭐ *“Build fast. Keep it clean. Ship it.”*
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,supabase,postgresql,mongodb,prisma,nodejs,nestjs,redux,tailwind,figma,git,postman" />
+</p>
+
+| Area | Tools |
+|---|---|
+| **Frontend** | React • Next.js • TypeScript • Tailwind CSS • Redux Toolkit |
+| **Backend** | Node.js • NestJS • TypeScript • PostgreSQL • MongoDB • Prisma • TypeORM |
+| **Workflow** | Git • GitHub • Figma • Postman |
+| **Currently Learning** | Advanced NestJS • Performance Optimization • Scalable Architecture • Databases |
+
+---
+
+### 🚀 Featured Projects
+
+- **[CsRaskid](https://github.com/c1felode)** — A CS2 grenade line-up teaching platform, built as a Turborepo monorepo with Next.js, NestJS, Prisma, PostgreSQL, Redis, and Socket.IO.
+- **chorvauskuna** — A Next.js 15 + Supabase app with custom auth and route architecture.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=c1felode&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=c1felode" />
+</p>
+
+---
+
+<div align="center">
+
+⭐ *"Build fast. Keep it clean. Ship it."*
+
+</div>
