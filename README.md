@@ -38,7 +38,7 @@
 ### 🚀 Featured Projects
 
 - **[CsRaskid](https://github.com/c1felode)** — A CS2 grenade line-up teaching platform, built as a Turborepo monorepo with Next.js, NestJS, Prisma, PostgreSQL, Redis, and Socket.IO.
-- **chorvauskuna** — A Next.js 15 + Supabase app with custom auth and route architecture.
+- **[chorvauskuna.uz](https://chorvauskuna.uz)** — A Next.js 15 + Supabase app with custom auth and route architecture.
 
 ---
 
